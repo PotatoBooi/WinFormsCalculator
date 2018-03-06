@@ -1,0 +1,10 @@
+C:\Users\barce\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+C:\Users\barce\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+C:\Users\barce\source\repos\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\Users\barce\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\barce\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+C:\Users\barce\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.Cache
+C:\Users\barce\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\barce\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+C:\Users\barce\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+C:\Users\barce\source\repos\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Kalkulator.resources
