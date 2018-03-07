@@ -127,16 +127,24 @@ namespace Kalkulator
                     MessageBox.Show("Out of range!");
                     buttonC.PerformClick();
                 }
-                else if (result.ToString().Contains("E"))
-                {
-                    int whereisE = result.ToString().IndexOf("E");
-                    string tmp = result.ToString().Remove(result.ToString().Length - 1 - whereisE, 5);
-                    textBoxDisplay.Text = tmp;
-                    
-                }
+               
                 else
                 {
-                    textBoxDisplay.Text = result.ToString();
+                    
+                        int whereisE = result.ToString().IndexOf("E");
+                        string tmp = result.ToString();
+                    if(whereisE > 0)
+                    {
+                        textBoxDisplay.Text = tmp.Remove(Math.Abs(whereisE - tmp.Length), whereisE - Math.Abs(whereisE - tmp.Length) - 4);
+                    }
+                    else
+                    {
+                        textBoxDisplay.Text = result.ToString();
+                    }
+
+
+                   
+
 
                 }
 
